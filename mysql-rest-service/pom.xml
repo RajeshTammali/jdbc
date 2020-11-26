@@ -5,7 +5,7 @@
     <artifactId>mysql-rest-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <!-- Define the parent pom -- sample>
+    <!-- Define the parent pom sample test-->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
